@@ -1,5 +1,6 @@
-
 Raydagana $RAY
+
+![image](https://github.com/user-attachments/assets/ff893d71-da9a-4d91-bb43-bb50f170c6c2)
 
 Raydium is a decentralized, on-chain automated market maker (AMM) built on the Solana blockchain. It operates using the “constant product” model and functions in a permissionless manner. What sets Raydium apart is its unique approach to liquidity distribution — it shares liquidity following the Fibonacci sequence through limit orders placed on OpenBook, Solana’s main central limit order book (CLOB).
 
