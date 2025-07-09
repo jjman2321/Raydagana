@@ -1,4 +1,7 @@
 
+Raydagana - The Raydium form
+
+
 
 Raydium is a decentralized, on-chain automated market maker (AMM) built on the Solana blockchain. It operates using the “constant product” model and functions in a permissionless manner. What sets Raydium apart is its unique approach to liquidity distribution — it shares liquidity following the Fibonacci sequence through limit orders placed on OpenBook, Solana’s main central limit order book (CLOB).
 
